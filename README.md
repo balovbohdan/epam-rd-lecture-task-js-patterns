@@ -3,6 +3,10 @@ Aim of the task is to implement "Observer" pattern. This task will help you
 to understand core concept of "Reactive Programming".
 
 # Task
+_(You have to write code in the `/js/index.js` file. It you have any questions,
+feel free to connect one of our mentors. We are glad to help you with any problem
+you faced.)_
+
 **1. Create class "Publisher".** It is the class that provides three public
 methods: **publish**, **addSubscriber** and **removeSubscriber**.
 
